@@ -58,4 +58,5 @@ function draw(){
     log5.display();
     platform.display()
     bird.display();
+    //hello
 }
