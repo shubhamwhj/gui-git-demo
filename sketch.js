@@ -59,4 +59,5 @@ function draw(){
     platform.display()
     bird.display();
     //hello
+    //hi
 }
